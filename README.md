@@ -1,2 +1,3 @@
 # UN-COVID-19-Tableau-Dashboard
-Dashboard practices using the COVID-19 data acquired from UN (site: https://covid-19-data.unstatshub.org/), last updated June 28, 2020.
+Dashboard practices using the COVID-19 data acquired from UN (site: https://covid-19-data.unstatshub.org/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1?geometry=101.682%2C-38.069%2C-84.294%2C63.033), last updated June 28, 2020.
+The data consists of 10 columns, 4 coordinate columns: a latitude and a longitude columns (as well as in 'X' and 'Y'), country names column (including MS Zaandam and Diamond Princess), last update column, and 3 columns of total value of confirmed case, death, and recovered. I added 2 additional columns, death rate (rate of number of death per confirmed case) and recovery rate (recovered per confirmed case) for each countries to compare the total number of death and recovered to its respective rates.
